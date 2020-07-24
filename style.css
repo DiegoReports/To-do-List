@@ -17,6 +17,10 @@ body {
     padding: 10px;
 }
 
+.container input{
+    color: #fff;
+}
+
 .container input::placeholder {
     color: rgb(199, 199, 199);
 }

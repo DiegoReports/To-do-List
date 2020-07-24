@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # To-do-List
 
 <h1>
@@ -18,3 +19,4 @@ O projeto **To-Do-List** foi criado com o objetivo de ajudar a listar tarefas do
 
 ---
 🔥 Desenvolvido por **Diego Henrique**
+

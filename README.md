@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # To-do-List
 
 <h1>
